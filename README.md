@@ -1,4 +1,4 @@
-`<p` align="center">
+<p align="center">
   <h1 align="center">Welcome to <a href="https://github.com/AylinRengifo">Aylin Rengifo</a>'s Profile 👋</h1>
 </p>
 <p align="center">
